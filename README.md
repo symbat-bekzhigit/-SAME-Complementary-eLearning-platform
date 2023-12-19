@@ -17,6 +17,7 @@ The 3 main personas that we identified for our product were high school students
 **Medium Fidelity Prototype:**
 
 The Medium Fidelity Prorotype of our product was created on Balsamiq.
+
 Link to the Video of Screengrab: https://drive.google.com/file/d/15KDAxaqk4pgrPl44PGpDVf9e3SpC3wDO/view?usp=sharing
 
 ***
