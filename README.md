@@ -1,1 +1,1 @@
-# -SAME-Complementary-eLearning-platform
+# SAME-Complementary-eLearning-platform
